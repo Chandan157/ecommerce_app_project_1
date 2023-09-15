@@ -10,7 +10,7 @@ const AdminMenu = () => {
             to="/dashboard/admin/create-category"
             className="list-group-item list-group-item-action"
           >
-            Create Category
+            Create new Category
           </NavLink>
           <NavLink
             to="/dashboard/admin/create-product"
