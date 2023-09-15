@@ -13,7 +13,7 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
-          <p>add privacy policy</p>
+          <p>add privacy policy 1</p>
           <p>add privacy policy</p>
           <p>add privacy policy</p>
           <p>add privacy policy</p>
